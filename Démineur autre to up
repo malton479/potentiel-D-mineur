@@ -1,0 +1,2 @@
+Def affiche(g):
+   for l in g
